@@ -1,0 +1,8 @@
+/vendor
+/node_modules
+/storage
+/tests
+/resources/views
+Homestead.yaml
+Homestead.json
+.env
